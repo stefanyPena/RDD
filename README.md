@@ -1,2 +1,2 @@
 # RDD
-Regression Discontiuity Design
+Regression Discontinuity Design

@@ -1,0 +1,2 @@
+# RDD
+Regression Discontiuity Design
